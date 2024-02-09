@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1653951004 source:c:\users\turbo\desktop\project\main.cpp
+	<tchar.h>
+	<windows.h>
+	<iostream>
+	<fstream>
+	<math.h>
+	<stack>
+	<vector>
+	<list>
+
+1654031794 source:c:\users\el sonni\onedrive\desktop\project\main.cpp
+	<tchar.h>
+	<windows.h>
+	<iostream>
+	<fstream>
+	<math.h>
+	<stack>
+	<vector>
+	<list>
+
